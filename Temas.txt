@@ -1,5 +1,4 @@
 ---> Segurança da Informação para Aplicações Web
 ---> Segurança da Informação para Dispositivos Móveis
----> Segurança da Informação no Setor Jurídico
 ---> Segurança da Informação nas Redes Sociais
 ---> Segurança da Informação para Jogos
